@@ -100,7 +100,7 @@ function zerarJogo(){
 
 var numerosReptidos = []
 
-let maxRandon = 1;
+let maxRandon = 100;
 let numeroSecreto = random(maxRandon);
 console.log(numeroSecreto);
 let tentativas = 1;
